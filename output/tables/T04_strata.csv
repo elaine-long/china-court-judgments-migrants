@@ -1,0 +1,11 @@
+stratum,population,drawn,weight,recheck
+P1_speedy_nonpilot,195779,30,6525.966666666666,6
+P2_plea_nonpilot,182033,30,6067.766666666666,6
+P3_national_nonpilot,81927,30,2730.9,6
+P1_speedy_pilot,61533,30,2051.1,6
+P0_base_nonpilot,58897,30,1963.2333333333333,6
+P2_plea_pilot,51692,30,1723.0666666666666,6
+P3_national_pilot,25371,30,845.7,6
+P0_base_pilot,21168,30,705.6,6
+S1_pilot_plea_leniency,21510,30,717.0,6
+S2_origin_unresolved_or_missing,250281,30,8342.7,6

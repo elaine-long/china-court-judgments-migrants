@@ -1,0 +1,14 @@
+field,n,agree_A_B,agree_rule_B
+nonlocal_origin,5,1.0,0.8
+residence_local,5,1.0,1.0
+status_at_judgment,5,1.0,1.0
+ever_bail,5,1.0,1.0
+plea_formal,5,1.0,1.0
+jiejie,5,1.0,1.0
+procedure,5,1.0,0.6
+counsel_any,5,1.0,1.0
+penalty_type,5,1.0,1.0
+term_months,5,1.0,1.0
+probation,5,1.0,1.0
+nonlocal_origin_self,5,1.0,
+residence_local_self,5,1.0,

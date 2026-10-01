@@ -1,0 +1,13 @@
+# court-judgment texts and derived microdata are not redistributed
+data/
+*.parquet
+*.csv
+!output/tables/*.csv
+# secrets and local environment
+.env
+.venv/
+# caches
+__pycache__/
+.pytest_cache/
+logs/
+.DS_Store

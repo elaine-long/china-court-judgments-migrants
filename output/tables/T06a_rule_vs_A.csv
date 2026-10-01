@@ -1,0 +1,16 @@
+field,n,agree,kappa,rule_NA,A_NA,A_invalid
+nonlocal_origin,200,0.915,0.8661891455783384,0.52,0.435,0.0
+residence_local,200,0.95,0.9103541012998655,0.625,0.575,0.0
+status_at_judgment,200,0.9,0.7650099870755493,0.12,0.02,0.0
+ever_bail,200,0.995,0.9861954721148537,0.0,0.0,0.0
+plea_formal,200,0.975,0.8796340876263841,0.0,0.0,0.0
+jiejie,200,0.885,0.2721518987341774,0.0,0.0,0.0
+procedure,200,0.825,0.7203579418344518,0.05,0.205,0.0
+counsel_any,200,0.955,0.8659517426273458,0.0,0.0,0.0
+penalty_type,200,1.0,1.0,0.0,0.0,0.0
+term_months,200,0.995,,0.05,0.05,0.0
+probation,200,1.0,1.0,0.0,0.0,0.0
+nonlocal_origin_self (model's own judgment) vs rule,200,0.885,0.8198057035412096,,0.42,
+nonlocal_origin_self vs gazetteer on model text,200,0.97,0.9537286959204133,,,
+residence_local_self (model's own judgment) vs rule,200,0.935,0.8836949228360547,,0.575,
+residence_local_self vs gazetteer on model text,200,0.985,0.9739910702674585,,,

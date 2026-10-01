@@ -1,0 +1,8 @@
+field,n,agree_A_B,agree_rule_B,agree_rule_A
+nonlocal_origin,50,0.96,0.98,0.94
+residence_local,50,0.96,1.0,0.96
+status_at_judgment,50,1.0,1.0,1.0
+ever_bail,50,1.0,1.0,1.0
+penalty_type,50,1.0,1.0,1.0
+term_months,50,1.0,1.0,1.0
+probation,50,1.0,1.0,1.0

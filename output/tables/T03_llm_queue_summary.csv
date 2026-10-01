@@ -1,0 +1,6 @@
+reason,n_defendants,n_docs,n_docs_first_defendant
+ambiguous,899,755,680.0
+no_defendant_parsed,389,389,389.0
+no_origin_text,335766,268403,267225.0
+unresolved,9142,7559,7045.0
+total,346196,276957,275339.0

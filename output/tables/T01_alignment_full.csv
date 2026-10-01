@@ -1,0 +1,6 @@
+rows_merged,rows_case_info,column,sample_n,sample_match,full_n,full_match,full_mismatch_rows
+1030854,1030848,case1_name,1000,1.0,1030848,1.0,0
+1030854,1030848,value_yuan,1000,1.0,1030848,1.0,0
+1030854,1030848,sentence_months,1000,1.0,1030848,1.0,0
+1030854,1030848,year,1000,1.0,1030848,1.0,0
+1030854,1030848,province,1000,1.0,1030848,1.0,0

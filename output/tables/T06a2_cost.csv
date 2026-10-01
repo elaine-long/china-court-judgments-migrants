@@ -1,0 +1,4 @@
+tag,model,calls,cached,errors,in_hit,in_miss,out,cost_usd,peak_calls,latency_mean
+P1_A_v2,deepseek-flash,200,0,0,173824,173936,25600,0.0419718719999924,0,1.14445
+P1_adj_v2,gemini-3.8-flash,18,0,0,0,26159,1344,0.02465925,0,2.51
+P3_B_v2,gemini-3.8-flash,50,0,0,0,100501,8027,0.105477,50,2.8796

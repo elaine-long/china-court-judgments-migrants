@@ -1,0 +1,17 @@
+outcome,component,value,N,share_of_raw,se
+probation,raw gap (city+quarter FE),-0.056755228776389284,30122.0,,
+probation,explained: case,-0.006194834295108023,,0.10915001892627614,
+probation,explained: prior,0.0017846311900605062,,-0.03144434845099118,
+probation,explained: pretrial,-0.032381304273344874,,0.57054310186863,
+probation,explained: local_residence,-0.004805815928399038,,0.08467617930558502,
+probation,"explained: other (age, sex)",-0.0007787446099148491,,0.01372110775877648,
+probation,unexplained (full-model gap),-0.014379160859683392,,0.2533539405917303,
+probation,DML conditional gap (Lasso),-0.014455849546727398,30122.0,,0.004990058249177352
+bail_at_judgment,raw gap (city+quarter FE),-0.07694468060602024,29421.0,,
+bail_at_judgment,explained: case,-0.0024443925335047756,,0.031768180909357416,
+bail_at_judgment,explained: prior,0.001230149492762025,,-0.01598745336355034,
+bail_at_judgment,explained: pretrial,-0.0710601171804364,,0.923522154108163,
+bail_at_judgment,explained: local_residence,-0.001347188118681138,,0.01750852830982747,
+bail_at_judgment,"explained: other (age, sex)",-0.0010351402719599326,,0.01345304527625711,
+bail_at_judgment,unexplained (full-model gap),-0.0022879919941986336,,0.029735544759927415,
+bail_at_judgment,DML conditional gap (Lasso),-0.0021859584666445507,29421.0,,0.0032645520985746

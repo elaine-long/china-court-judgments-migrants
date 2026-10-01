@@ -1,0 +1,50 @@
+\begin{threeparttable}
+\begingroup
+\renewcommand\cellalign{t}
+\renewcommand\arraystretch{1}
+\setlength{\tabcolsep}{3pt}
+\begin{tabularx}{\linewidth}{@{}>{\raggedright\arraybackslash}l>{\centering\arraybackslash}X>{\centering\arraybackslash}X>{\centering\arraybackslash}X>{\centering\arraybackslash}X}
+\toprule
+ & \multicolumn{1}{c}{Probation} & \multicolumn{1}{c}{Bail at judgment} & \multicolumn{1}{c}{log(1+term)} & \multicolumn{1}{c}{Leniency procedure} \\
+\cmidrule(lr){2-2} \cmidrule(lr){3-3} \cmidrule(lr){4-4} \cmidrule(lr){5-5}
+ & (1) & (2) & (3) & (4) \\
+\midrule
+\addlinespace[1ex]
+Pilot $\times$ P1 & \makecell{0.007 \\ (0.007)} & \makecell{-0.001 \\ (0.010)} & \makecell{-0.005 \\ (0.017)} & \makecell{0.069 \\ (0.039)} \\
+\addlinespace[0.5ex]
+\addlinespace[0.5ex]
+Pilot $\times$ P1 $\times$ Migrant & \makecell{-0.004 \\ (0.008)} & \makecell{0.005 \\ (0.010)} & \makecell{0.025 \\ (0.018)} & \makecell{0.049 \\ (0.026)} \\
+\addlinespace[0.5ex]
+\addlinespace[0.5ex]
+Pilot $\times$ P2 & \makecell{0.024* \\ (0.011)} & \makecell{0.005 \\ (0.013)} & \makecell{0.023 \\ (0.018)} & \makecell{0.376*** \\ (0.025)} \\
+\addlinespace[0.5ex]
+\addlinespace[0.5ex]
+Pilot $\times$ P2 $\times$ Migrant & \makecell{-0.009 \\ (0.012)} & \makecell{0.007 \\ (0.015)} & \makecell{0.012 \\ (0.019)} & \makecell{-0.026 \\ (0.024)} \\
+\addlinespace[0.5ex]
+\addlinespace[0.5ex]
+Pilot $\times$ P3 & \makecell{0.042*** \\ (0.009)} & \makecell{0.024 \\ (0.014)} & \makecell{0.004 \\ (0.017)} & \makecell{0.504*** \\ (0.058)} \\
+\addlinespace[0.5ex]
+\addlinespace[0.5ex]
+Pilot $\times$ P3 $\times$ Migrant & \makecell{-0.013 \\ (0.011)} & \makecell{0.004 \\ (0.014)} & \makecell{0.017 \\ (0.019)} & \makecell{-0.082 \\ (0.043)} \\
+\addlinespace[0.5ex]
+\midrule
+\addlinespace[1ex]
+ q_mig & x & x & x & x \\
+\addlinespace[0.5ex]
+\addlinespace[0.5ex]
+city_mig  & x & x & x & x \\
+\addlinespace[0.5ex]
+\midrule
+\addlinespace[1ex]
+Observations & 374,322 & 356,725 & 352,429 & 374,322 \\
+\addlinespace[0.5ex]
+\addlinespace[0.5ex]
+$R^2$ & 0.194 & 0.267 & 0.554 & 0.381 \\
+\addlinespace[0.5ex]
+\bottomrule
+\end{tabularx}
+\endgroup
+\noindent\begin{minipage}{\linewidth}\smallskip\footnotesize
+Preliminary estimates on rule-extracted variables (prelim\_rules). SEs clustered by court city. Controls per PAP §4.\end{minipage}
+
+\end{threeparttable}

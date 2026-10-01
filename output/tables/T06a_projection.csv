@@ -1,0 +1,5 @@
+item,docs,usd,cny
+"V model A (5,000 docs, off-peak)",5000.0,1.3379927999999999,9.63354816
+"R model A (rule-missing/uncertain, header only)",95124.0,8.910832019039999,64.157990537088
+"V model B adjudication (Batch, paid; 44% of docs)",2200.0,2.8800749999999997,20.736539999999998
+TOTAL,,13.128899819039999,94.52807869708799
